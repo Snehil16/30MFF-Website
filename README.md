@@ -8,4 +8,8 @@
 
 ## Process
 
-### The layout of the whole website has been implemented using 'flexbox'.  
+### The layout of the whole website has been implemented using 'flexbox'. I did some research on testimonial carousel, I took inspiration from works over the internet and implemented the something similar to it using HTML, CSS and JS.  
+
+## Reflection/Evaluation
+
+### The plan was to make something like this and I ended up doing the same. The only problem was that I was using the video tag not realising that video size is too large and could not be uploaded on github. However, I implemented something similar to it using iframe tag for youtube videos. 
